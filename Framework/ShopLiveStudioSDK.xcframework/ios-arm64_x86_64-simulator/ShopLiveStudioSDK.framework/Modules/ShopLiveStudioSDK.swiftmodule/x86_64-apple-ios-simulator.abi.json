@@ -5265,16 +5265,6 @@
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "ShopLiveStudioSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -9943,6 +9933,16 @@
         "moduleName": "ShopLiveStudioSDK",
         "declAttributes": [
           "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ShopLiveStudioSDK",
+        "declAttributes": [
+          "RawDocComment"
         ]
       },
       {
@@ -31632,132 +31632,6 @@
       "value": "false"
     },
     {
-      "filePath": "\/Users\/james\/Desktop\/projects\/ios\/StudioSDK\/matrix-studio-sdk\/ShopLiveStudioSDK\/source\/screen\/stream\/bottom_sheet\/BitrateSettingViewController.swift",
-      "kind": "FloatLiteral",
-      "offset": 509,
-      "length": 3,
-      "value": "0.2"
-    },
-    {
-      "filePath": "\/Users\/james\/Desktop\/projects\/ios\/StudioSDK\/matrix-studio-sdk\/ShopLiveStudioSDK\/source\/screen\/stream\/bottom_sheet\/BitrateSettingViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 565,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/james\/Desktop\/projects\/ios\/StudioSDK\/matrix-studio-sdk\/ShopLiveStudioSDK\/source\/screen\/stream\/bottom_sheet\/BitrateSettingViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 838,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/james\/Desktop\/projects\/ios\/StudioSDK\/matrix-studio-sdk\/ShopLiveStudioSDK\/source\/screen\/stream\/bottom_sheet\/BitrateSettingViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1707,
-      "length": 2,
-      "value": "16"
-    },
-    {
-      "filePath": "\/Users\/james\/Desktop\/projects\/ios\/StudioSDK\/matrix-studio-sdk\/ShopLiveStudioSDK\/source\/screen\/stream\/bottom_sheet\/BitrateSettingViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2017,
-      "length": 2,
-      "value": "16"
-    },
-    {
-      "filePath": "\/Users\/james\/Desktop\/projects\/ios\/StudioSDK\/matrix-studio-sdk\/ShopLiveStudioSDK\/source\/screen\/stream\/bottom_sheet\/BitrateSettingViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 2081,
-      "length": 18,
-      "value": "\"Bitrate settings\""
-    },
-    {
-      "filePath": "\/Users\/james\/Desktop\/projects\/ios\/StudioSDK\/matrix-studio-sdk\/ShopLiveStudioSDK\/source\/screen\/stream\/bottom_sheet\/BitrateSettingViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2211,
-      "length": 2,
-      "value": "14"
-    },
-    {
-      "filePath": "\/Users\/james\/Desktop\/projects\/ios\/StudioSDK\/matrix-studio-sdk\/ShopLiveStudioSDK\/source\/screen\/stream\/bottom_sheet\/BitrateSettingViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 2384,
-      "length": 32,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/james\/Desktop\/projects\/ios\/StudioSDK\/matrix-studio-sdk\/ShopLiveStudioSDK\/source\/screen\/stream\/bottom_sheet\/BitrateSettingViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2410,
-      "length": 4,
-      "value": "1000"
-    },
-    {
-      "filePath": "\/Users\/james\/Desktop\/projects\/ios\/StudioSDK\/matrix-studio-sdk\/ShopLiveStudioSDK\/source\/screen\/stream\/bottom_sheet\/BitrateSettingViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 2415,
-      "length": 1,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/james\/Desktop\/projects\/ios\/StudioSDK\/matrix-studio-sdk\/ShopLiveStudioSDK\/source\/screen\/stream\/bottom_sheet\/BitrateSettingViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2497,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/james\/Desktop\/projects\/ios\/StudioSDK\/matrix-studio-sdk\/ShopLiveStudioSDK\/source\/screen\/stream\/bottom_sheet\/BitrateSettingViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2595,
-      "length": 2,
-      "value": "16"
-    },
-    {
-      "filePath": "\/Users\/james\/Desktop\/projects\/ios\/StudioSDK\/matrix-studio-sdk\/ShopLiveStudioSDK\/source\/screen\/stream\/bottom_sheet\/BitrateSettingViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 2657,
-      "length": 100,
-      "value": "\"In order to transmit in 1080p (Full HD), a bitrate between 3,000 kbps - 4,000 kbps is recommended.\""
-    },
-    {
-      "filePath": "\/Users\/james\/Desktop\/projects\/ios\/StudioSDK\/matrix-studio-sdk\/ShopLiveStudioSDK\/source\/screen\/stream\/bottom_sheet\/BitrateSettingViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2821,
-      "length": 2,
-      "value": "14"
-    },
-    {
-      "filePath": "\/Users\/james\/Desktop\/projects\/ios\/StudioSDK\/matrix-studio-sdk\/ShopLiveStudioSDK\/source\/screen\/stream\/bottom_sheet\/BitrateSettingViewController.swift",
-      "kind": "FloatLiteral",
-      "offset": 3921,
-      "length": 4,
-      "value": "0.15"
-    },
-    {
-      "filePath": "\/Users\/james\/Desktop\/projects\/ios\/StudioSDK\/matrix-studio-sdk\/ShopLiveStudioSDK\/source\/screen\/stream\/bottom_sheet\/BitrateSettingViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3999,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/james\/Desktop\/projects\/ios\/StudioSDK\/matrix-studio-sdk\/ShopLiveStudioSDK\/source\/screen\/stream\/bottom_sheet\/BitrateSettingViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4394,
-      "length": 4,
-      "value": "1000"
-    },
-    {
-      "filePath": "\/Users\/james\/Desktop\/projects\/ios\/StudioSDK\/matrix-studio-sdk\/ShopLiveStudioSDK\/source\/screen\/stream\/bottom_sheet\/BitrateSettingViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 4771,
-      "length": 4,
-      "value": "true"
-    },
-    {
       "filePath": "\/Users\/james\/Desktop\/projects\/ios\/StudioSDK\/matrix-studio-sdk\/ShopLiveStudioSDK\/source\/streaming\/Util\/RingBuffer.swift",
       "kind": "IntegerLiteral",
       "offset": 183,
@@ -38882,6 +38756,132 @@
       "offset": 667,
       "length": 3,
       "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/james\/Desktop\/projects\/ios\/StudioSDK\/matrix-studio-sdk\/ShopLiveStudioSDK\/source\/screen\/stream\/bottom_sheet\/BitrateSettingViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 509,
+      "length": 3,
+      "value": "0.2"
+    },
+    {
+      "filePath": "\/Users\/james\/Desktop\/projects\/ios\/StudioSDK\/matrix-studio-sdk\/ShopLiveStudioSDK\/source\/screen\/stream\/bottom_sheet\/BitrateSettingViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 565,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/james\/Desktop\/projects\/ios\/StudioSDK\/matrix-studio-sdk\/ShopLiveStudioSDK\/source\/screen\/stream\/bottom_sheet\/BitrateSettingViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 838,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/james\/Desktop\/projects\/ios\/StudioSDK\/matrix-studio-sdk\/ShopLiveStudioSDK\/source\/screen\/stream\/bottom_sheet\/BitrateSettingViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1707,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/james\/Desktop\/projects\/ios\/StudioSDK\/matrix-studio-sdk\/ShopLiveStudioSDK\/source\/screen\/stream\/bottom_sheet\/BitrateSettingViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2017,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/james\/Desktop\/projects\/ios\/StudioSDK\/matrix-studio-sdk\/ShopLiveStudioSDK\/source\/screen\/stream\/bottom_sheet\/BitrateSettingViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 2081,
+      "length": 18,
+      "value": "\"Bitrate settings\""
+    },
+    {
+      "filePath": "\/Users\/james\/Desktop\/projects\/ios\/StudioSDK\/matrix-studio-sdk\/ShopLiveStudioSDK\/source\/screen\/stream\/bottom_sheet\/BitrateSettingViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2211,
+      "length": 2,
+      "value": "14"
+    },
+    {
+      "filePath": "\/Users\/james\/Desktop\/projects\/ios\/StudioSDK\/matrix-studio-sdk\/ShopLiveStudioSDK\/source\/screen\/stream\/bottom_sheet\/BitrateSettingViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 2384,
+      "length": 32,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/james\/Desktop\/projects\/ios\/StudioSDK\/matrix-studio-sdk\/ShopLiveStudioSDK\/source\/screen\/stream\/bottom_sheet\/BitrateSettingViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2410,
+      "length": 4,
+      "value": "1000"
+    },
+    {
+      "filePath": "\/Users\/james\/Desktop\/projects\/ios\/StudioSDK\/matrix-studio-sdk\/ShopLiveStudioSDK\/source\/screen\/stream\/bottom_sheet\/BitrateSettingViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 2415,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/james\/Desktop\/projects\/ios\/StudioSDK\/matrix-studio-sdk\/ShopLiveStudioSDK\/source\/screen\/stream\/bottom_sheet\/BitrateSettingViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2497,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/james\/Desktop\/projects\/ios\/StudioSDK\/matrix-studio-sdk\/ShopLiveStudioSDK\/source\/screen\/stream\/bottom_sheet\/BitrateSettingViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2595,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/james\/Desktop\/projects\/ios\/StudioSDK\/matrix-studio-sdk\/ShopLiveStudioSDK\/source\/screen\/stream\/bottom_sheet\/BitrateSettingViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 2657,
+      "length": 100,
+      "value": "\"In order to transmit in 1080p (Full HD), a bitrate between 3,000 kbps - 4,000 kbps is recommended.\""
+    },
+    {
+      "filePath": "\/Users\/james\/Desktop\/projects\/ios\/StudioSDK\/matrix-studio-sdk\/ShopLiveStudioSDK\/source\/screen\/stream\/bottom_sheet\/BitrateSettingViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2821,
+      "length": 2,
+      "value": "14"
+    },
+    {
+      "filePath": "\/Users\/james\/Desktop\/projects\/ios\/StudioSDK\/matrix-studio-sdk\/ShopLiveStudioSDK\/source\/screen\/stream\/bottom_sheet\/BitrateSettingViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 3921,
+      "length": 4,
+      "value": "0.15"
+    },
+    {
+      "filePath": "\/Users\/james\/Desktop\/projects\/ios\/StudioSDK\/matrix-studio-sdk\/ShopLiveStudioSDK\/source\/screen\/stream\/bottom_sheet\/BitrateSettingViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3999,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/james\/Desktop\/projects\/ios\/StudioSDK\/matrix-studio-sdk\/ShopLiveStudioSDK\/source\/screen\/stream\/bottom_sheet\/BitrateSettingViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4394,
+      "length": 4,
+      "value": "1000"
+    },
+    {
+      "filePath": "\/Users\/james\/Desktop\/projects\/ios\/StudioSDK\/matrix-studio-sdk\/ShopLiveStudioSDK\/source\/screen\/stream\/bottom_sheet\/BitrateSettingViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4771,
+      "length": 4,
+      "value": "true"
     },
     {
       "filePath": "\/Users\/james\/Desktop\/projects\/ios\/StudioSDK\/matrix-studio-sdk\/ShopLiveStudioSDK\/source\/components\/CommonKeys.swift",

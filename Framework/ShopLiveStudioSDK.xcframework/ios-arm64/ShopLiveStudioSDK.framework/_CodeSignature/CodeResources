@@ -30,7 +30,7 @@
 		</data>
 		<key>Modules/ShopLiveStudioSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		9UIH5YBVU/f+nxVPSQi1lfmrWbM=
+		yrJyZi6RjpnKm2a+X3LNpLpgJgs=
 		</data>
 		<key>Modules/ShopLiveStudioSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Modules/ShopLiveStudioSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		SBJVg3c2i6FvzuQYeinXLLDuFtQ=
+		pCrJnYYmzgguJZyqqz/YOB51zQ0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -120,7 +120,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nBp3mw0LXS9lSKi9cP+IXVFzwq02SU8aMRgsrZ+BdsY=
+			QMNgRBtS+5O3I9b/BiblwP0Iq+W9+9j8tTEhnTTjSu0=
 			</data>
 		</dict>
 		<key>Modules/ShopLiveStudioSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -148,7 +148,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Vw7bENucjY5Dc6UQ6YgSYIJRdmm322YiHLQ9qASHTAM=
+			z5R9QPUz5dCnXHFD6tHLNRzyC8ZW79dDB+6ftaDCjSg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
