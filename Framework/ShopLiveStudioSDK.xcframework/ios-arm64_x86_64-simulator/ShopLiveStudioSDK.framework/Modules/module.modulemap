@@ -1,0 +1,6 @@
+framework module ShopLiveStudioSDK {
+  umbrella header "ShopLiveStudioSDK.h"
+
+  export *
+  module * { export * }
+}
