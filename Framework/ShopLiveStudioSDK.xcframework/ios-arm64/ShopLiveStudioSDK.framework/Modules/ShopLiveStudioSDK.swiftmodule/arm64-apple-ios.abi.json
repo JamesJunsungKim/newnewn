@@ -63437,54 +63437,61 @@
       "kind": "StringLiteral",
       "offset": 533,
       "length": 42,
-      "value": "\"com.shoplive.studiosdk.ShopLiveStudioSDK\""
+      "value": "\"com.shoplive.studiosdk.ShopliveStudioSDK\""
     },
     {
       "filePath": "\/Users\/james\/Desktop\/projects\/ios\/StudioSDK\/matrix-studio-sdk\/ShopLiveStudioSDK\/source\/components\/Instantiable.swift",
       "kind": "StringLiteral",
-      "offset": 1116,
+      "offset": 605,
+      "length": 16,
+      "value": "\"ShopLiveStudio\""
+    },
+    {
+      "filePath": "\/Users\/james\/Desktop\/projects\/ios\/StudioSDK\/matrix-studio-sdk\/ShopLiveStudioSDK\/source\/components\/Instantiable.swift",
+      "kind": "StringLiteral",
+      "offset": 1299,
       "length": 6,
       "value": "\"Main\""
     },
     {
       "filePath": "\/Users\/james\/Desktop\/projects\/ios\/StudioSDK\/matrix-studio-sdk\/ShopLiveStudioSDK\/source\/components\/Instantiable.swift",
       "kind": "StringLiteral",
-      "offset": 1215,
+      "offset": 1398,
       "length": 31,
       "value": "\"Couldn't find the storyboard.\""
     },
     {
       "filePath": "\/Users\/james\/Desktop\/projects\/ios\/StudioSDK\/matrix-studio-sdk\/ShopLiveStudioSDK\/source\/components\/Instantiable.swift",
       "kind": "BooleanLiteral",
-      "offset": 1764,
+      "offset": 1947,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/james\/Desktop\/projects\/ios\/StudioSDK\/matrix-studio-sdk\/ShopLiveStudioSDK\/source\/components\/Instantiable.swift",
       "kind": "StringLiteral",
-      "offset": 1826,
+      "offset": 2009,
       "length": 13,
       "value": "\"storyboardc\""
     },
     {
       "filePath": "\/Users\/james\/Desktop\/projects\/ios\/StudioSDK\/matrix-studio-sdk\/ShopLiveStudioSDK\/source\/components\/Instantiable.swift",
       "kind": "StringLiteral",
-      "offset": 2120,
+      "offset": 2303,
       "length": 3,
       "value": "\"<\""
     },
     {
       "filePath": "\/Users\/james\/Desktop\/projects\/ios\/StudioSDK\/matrix-studio-sdk\/ShopLiveStudioSDK\/source\/components\/Instantiable.swift",
       "kind": "StringLiteral",
-      "offset": 2187,
+      "offset": 2370,
       "length": 3,
       "value": "\"<\""
     },
     {
       "filePath": "\/Users\/james\/Desktop\/projects\/ios\/StudioSDK\/matrix-studio-sdk\/ShopLiveStudioSDK\/source\/components\/Instantiable.swift",
       "kind": "IntegerLiteral",
-      "offset": 2192,
+      "offset": 2375,
       "length": 1,
       "value": "0"
     },
